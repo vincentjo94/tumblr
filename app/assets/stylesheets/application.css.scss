@@ -14,7 +14,7 @@ a {
 }
 
 #sidebar {
-	width: 200px;
+	width: 260px;
 	position: fixed;
 	left: 0;
 	top: 0;
@@ -83,7 +83,9 @@ a {
 }
 
 #main_content {
-	margin-left: 200px;
+	margin-left: 250px;
+	margin-right: -10px;
+	margin-top: -10px;
 	#header {
 		padding: 1.2em 3.5em;
 		border-bottom: 1px solid #b8e2fe;
